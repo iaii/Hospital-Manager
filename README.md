@@ -9,7 +9,7 @@
 # Resources: 
 - StreamLit API https://docs.streamlit.io/develop/api-reference
 - Debugging using ChatGPT 
-Libraries Installed:
+#### Libraries Installed:
 - numpy
 - pandas
 - datetime
